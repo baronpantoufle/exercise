@@ -1,4 +1,4 @@
-This is very important documentation. You must read all of it.
+NOW as part of Ex 9, creating a conflict by editing the first line from GITHUB. This is very important documentation. You must read all of it.
 Here is a new line not in the original.
 This is documentation is also highly confidential. 
 Leakers will be severely prosecuted.
