@@ -1,7 +1,10 @@
 
 Now for Ex 9 I am changing the first line to help create a CONFLICT with the file on GitHub. (Because I already made a nedit there for this line.) This is very important documentation. You must read all of it.
-NOW the CONFLICT is RESOLVED and we are all HAPPY.
+
+NOW the CONFLICT is RESOLVED and we are all HAPPY. Changed for Ex 12 Part 2.
+
 Here is a new line not in the original. Changing this line for Ex 12.
+
 This is documentation is also highly confidential. 
 Leakers will be severely prosecuted. Changing this line in main for Ex 12
 
