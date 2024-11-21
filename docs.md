@@ -3,7 +3,7 @@ Now for Ex 9 I am changing the first line to help create a CONFLICT with the fil
 NOW the CONFLICT is RESOLVED and we are all HAPPY.
 Here is a new line not in the original.
 This is documentation is also highly confidential. 
-Leakers will be severely prosecuted.
+Leakers will be severely prosecuted. Changing this line in main for Ex 12
 
 Here is a first line added on GitHub for Ex. 9.
 
