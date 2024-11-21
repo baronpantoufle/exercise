@@ -1,7 +1,7 @@
 
 Now for Ex 9 I am changing the first line to help create a CONFLICT with the file on GitHub. (Because I already made a nedit there for this line.) This is very important documentation. You must read all of it.
 NOW the CONFLICT is RESOLVED and we are all HAPPY.
-Here is a new line not in the original.
+Here is a new line not in the original. Changing this line for Ex 12.
 This is documentation is also highly confidential. 
 Leakers will be severely prosecuted.
 
@@ -13,3 +13,5 @@ Last line.
 Now here is a line I am adding on BBedit. That is to say, locally. And of course this is part of Exercise Nine.
 
 Now I am back adding yet another line in BBedit for Ex 9 because things went a bit crazy and I was trapped in the VI editor.
+
+Ex 11 "The toothbrush requires [need info here!]
